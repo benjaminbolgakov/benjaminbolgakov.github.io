@@ -1,0 +1,16 @@
+# -*- mode: gitignore; -*-
+
+__pycache__
+*~
+
+venv/
+temp/
+legacy/
+bin/
+build/
+dist/
+lib/
+lib64/
+var/
+
+pip-log.txt
