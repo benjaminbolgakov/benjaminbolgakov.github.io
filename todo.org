@@ -1,0 +1,2 @@
+* Automatic Cronjobs
+https://min.hostup.se/knowledgebase/article/2/cronjob---automatiska-tidsinst%C3%A4llda-kommandon/
