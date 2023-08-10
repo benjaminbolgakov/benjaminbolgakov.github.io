@@ -27,6 +27,7 @@ B.Sc Electrical Engineering | Linköping University
 ## Projects
 ### MonoVision - Monocular Odometry System
 Inspired by the work on my bachelor thesis I continued to develop the python framework used for the thesis on my spare time.
+
 **Project now includes:**
 - Camera calibration.
 - Aruco detection and pose estimation enabling distance and heading to be calculated.
