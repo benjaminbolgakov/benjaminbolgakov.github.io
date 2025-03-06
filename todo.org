@@ -1,2 +1,9 @@
+* General
+[[https://www.codecademy.com/article/creating-a-website-on-github-pages][codeacademy]]
+
 * Automatic Cronjobs
 https://min.hostup.se/knowledgebase/article/2/cronjob---automatiska-tidsinst%C3%A4llda-kommandon/
+
+* Backend
+[[https://stackoverflow.com/questions/52969697/deploying-react-app-on-github-pages-front-and-backend-in-the-same-repository][react]]
+[[https://www.reddit.com/r/github/comments/3dqbp4/any_way_to_run_backend_operations_in_githubio_blog/][reddit]]
