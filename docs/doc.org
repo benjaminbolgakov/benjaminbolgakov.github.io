@@ -1,0 +1,16 @@
+* Web App Integration
+:PROPERTIES:
+:CUSTOM_ID: 0x01
+:END:
+- To display prowess in webdev, let's integrate a web app in the website.
+  Something akin to this [[https://qr.ai03.com][QR_Generator]] [[[https://github.com/ai03-2725/simple-qr-code-generator][git_repo]] - [[./simple-qr-code-generator-main/][repo_downloaded]]]
+
+
+* Tester
+:PROPERTIES:
+:CUSTOM_ID: ABC123-456DSA
+:END:
+- TEsting...
+
+
+[[docview:d/dummy.pdf::002][bbbb]]
